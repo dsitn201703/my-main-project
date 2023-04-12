@@ -1,2 +1,2 @@
 # my-main-project
-test submudules
+test submodules
